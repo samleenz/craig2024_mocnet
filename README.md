@@ -17,6 +17,8 @@ Code written by Sam Lee (@samleenz) under supervision of Jessica Holien
 
 ### nedd
 
+- [github repository](https://github.com/samleenz/nedd)
+
 ```r
 library(devtools)
 install_github("samleenz/nedd")
