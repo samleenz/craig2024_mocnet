@@ -2,7 +2,7 @@
 
 Code associated with "A new method for network bioinformatics identifies novel drug targets for Mucinous Ovarian Carcinoma"
 
-paper: *forthcoming*
+Olivia Craig, Samuel Lee, Courtney Pilcher, Rita Saoud, Suad Abdirahman, Carolina Salazar, Nathan Williams, David B Ascher, Robert Vary, Jennii Luu, Karla J Cowley, Susanne Ramm, Mark Xiang Li, Niko Thio, Jason Li, Tim Semple, Kaylene J Simpson, Kylie L Gorringe, Jessica K Holien, A new method for network bioinformatics identifies novel drug targets for mucinous ovarian carcinoma, NAR Genomics and Bioinformatics, Volume 6, Issue 3, September 2024, lqae096, https://doi.org/10.1093/nargab/lqae096
 
 Code written by Sam Lee (@samleenz) under supervision of Jessica Holien
 
